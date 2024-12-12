@@ -28,7 +28,7 @@ export const clientReviews = [
     position: 'Marketing Director at GreenLeaf',
     img: 'assets/review1.png',
     review:
-      'Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
+      'Working with Kenny was like collaborating with a modern-day Steve Jobs—if Steve Jobs also fixed buggy code at 3 a.m. He transformed our outdated website into a sleek, user-friendly platform that practically oozes innovation. His attention to detail and commitment to quality are so unmatched, we’re considering renaming our site in his honor.',
   },
   {
     id: 2,
@@ -36,7 +36,7 @@ export const clientReviews = [
     position: 'Founder of TechGear Shop',
     img: 'assets/review2.png',
     review:
-      'Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
+      'Kenny’s web development skills are so powerful, I’m convinced he’s a wizard disguised as a programmer. He didn’t just build our e-commerce site; he summoned it from the depths of code magic. Our sales didn’t just increase—they ascended to the heavens. NASA called to confirm our website had reached orbit. Kenny, you’re the Chuck Norris of web development!',
   },
   {
     id: 3,
@@ -44,7 +44,7 @@ export const clientReviews = [
     position: 'Project Manager at UrbanTech ',
     img: 'assets/review3.png',
     review:
-      'I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
+      'I can’t say enough good things about Kenny. He took our chaotic project requirements, tamed them like a lion trainer, and delivered a website so seamless it practically solves problems before they happen. His skills are a gift to humanity.',
   },
   {
     id: 4,
@@ -52,7 +52,7 @@ export const clientReviews = [
     position: 'CEO of BrightStar Enterprises',
     img: 'assets/review4.png',
     review:
-      'Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
+      'Kenny was a pleasure to work with. He turned our vague requirements into a masterpiece of a website that exceeded all expectations. His skills in both frontend and backend development are so top-notch, we’re convinced he’s part wizard.',
   },
 ];
 

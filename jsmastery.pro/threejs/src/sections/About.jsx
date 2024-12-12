@@ -18,7 +18,7 @@ const About = () => {
     };
 
     return (
-        <section className="c-space my-20"> {/* Main container for the About section */}
+        <section className="c-space my-20" id="about"> {/* Main container for the About section */}
             <div className="grid xl:grid-cols-3 xl:grid-rows-6 md:grid-cols-2 grid-cols-1 gap-5 h-full">
                 
                 {/* About Me Section */}
@@ -28,12 +28,10 @@ const About = () => {
                         <img src="/assets/grid1.png" alt="grid-1" className="w-full sm:h-[276px] h-fit object-contain" />
                         <div>
                             {/* Title */}
-                            <p className="grid-headtext">Hi, I'm Kenny</p>
+                            <p className="grid-headtext">Welcome, I'm Kenny!</p>
                             {/* Description */}
                             <p className="grid-subtext">
-                                With 12 years of experience, I have honed my skills in frontend 
-                                and backend development with a focus on animated 3D websites.
-                            </p>
+                            As a dedicated learner, I have honed my skills in web development, focusing on interactive 3D websites using cutting-edge tools and technologies.                            </p>
                         </div>
                     </div>
                 </div>
@@ -48,8 +46,7 @@ const About = () => {
                             <p className="grid-headtext">Tech Stack</p>
                             {/* Description */}
                             <p className="grid-subtext">
-                                I specialize in Javascript/Python with a focus on React and Three.js ecosystems.
-                            </p>
+                            I specialize in JavaScript and Python, with growing expertise in React.js and Three.js for creating dynamic and visually engaging projects.                            </p>
                         </div>
                     </div>
                 </div>
@@ -78,7 +75,7 @@ const About = () => {
                         </div>
                         <div>
                             {/* Title */}
-                            <p className="grid-headtext">I work remotely across most regions</p>
+                            <p className="grid-headtext">I’m based in Los Angeles, California, and I’m eager to collaborate on innovative projects.</p>
                             {/* Description */}
                             <p className="grid-subtext">
                                 I'm based in the United States, with remote work available.

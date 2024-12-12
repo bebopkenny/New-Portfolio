@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { myProjects } from '../constants'
+import { myProjects } from '../constants/index'
 
 const projectCount = myProjects.length;
 
@@ -57,9 +57,14 @@ const Projects = () => {
                         </button>
                 </div>
             </div>
+            <div className="boarder-black-300 bg-black-200 rounded-lg h-96 md:h-full">
+
+            </div>
         </div>
     </section>
   )
 }
 
 export default Projects
+
+// Canvas 3:20:11

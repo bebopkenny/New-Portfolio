@@ -42,7 +42,7 @@ const Hero = () => {
                     Hi, I am Kenny <span className="waving-hand">👋</span>
                 </p>
                 {/* Subheading text with a gradient effect */}
-                <p className="hero_tag text-gray_gradient">Building Products & Brands</p>
+                <p className="hero_tag text-gray_gradient">Building Innovative Solutions</p>
             </div>
 
             {/* 3D Canvas container */}
@@ -81,7 +81,7 @@ const Hero = () => {
 
             {/* Button at the bottom of the section linking to the contact section */}
             <div className="absolute bottom-7 left-0 right-0 w-full z-10 c-space">
-                <a href="#contact" className="w-fit">
+                <a href="#about" className="w-fit">
                     {/* Button component with a beam animation */}
                     <Button name="Let's work together" isBeam containerClass="sm:w-fit w-full sm:min-w-96" />
                 </a>
